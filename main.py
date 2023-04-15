@@ -78,5 +78,3 @@ while running:
                 game.sound_manager.play('click')    
     # fixer le nombre de fps sur ma clock
     clock.tick(FPS)
-
-#hello
